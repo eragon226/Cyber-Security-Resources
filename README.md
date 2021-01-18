@@ -10,6 +10,11 @@
 [Cyber security course 2](https://mega.nz/folder/2x9Q2SQY#bAbl9-naw0rwCk67M1o4lg) |
 [Cyber security course 3](https://mega.nz/folder/r0ZDyQDB#zW1jF76lYqwtRhgulJ4DTw)
 
+
+If you are looking any cyber security course for free then search in this website =>
+[Link](https://freeeducationweb.com/category/category/security/)
+
+
 [CISA, CISSP training videos](https://mega.nz/folder/2x9Q2SQY#bAbl9-naw0rwCk67M1o4lg)
 
 
@@ -85,8 +90,18 @@ Elearn Security Courses|
 
 [Security Courses](https://drive.google.com/drive/u/0/folders/0ByzazsLLzvFwLVNfSW5BeS0yLTg)
 
+[Master in Hacking with XSS Cross Site Scriptin](https://drive.google.com/open?id=1Z8G4IAnB5dnEIYcNsnb_lqKsIz3ayvRk)
+
+
+
+[Pearson IT CCNP Security Cisco Identify](https://drive.google.com/folderview?id=1KIrnqr5zmW4rOcn_HKRf7US_bWCz33o1)
+
 Advance Penetration Testing
 [Link 2](https://mega.nz/folder/3TRG2IiK#cYUfjdBRz4FlsfZFedx4NA)
+
+[🔰Reverse Engineering Ransomware](https://rapidgator.net/file/ac65db2610916c…)
+
+[Security Courses](https://mega.nz/folder/2x9Q2SQY#bAbl9-naw0rwCk67M1o4lg)
 
 [🎭Jigsaw Ransomware](https://mega.nz/#!5qwAhLYS!klboQaTbVHa_bGRMEnBtekucfJoPJ9yKjrB941KqYuA)
 [🎭Atom/Shark Ransomware](https://mega.nz/#!g7wHSRyQ!XYa-5hD_9OOt1glubOhS_vjP8YQDylXnP9QTWtZzaA8)
