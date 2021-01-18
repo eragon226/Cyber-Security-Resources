@@ -1,4 +1,4 @@
-# Cyber-Security-Resources
+# Cyber-Security-Resources and courses
 
 [Open-Source Intelligence(OSINT) Fundamentals By Heath Adams](https://mega.nz/folder/AmQVzCZB#XdSJsQMO8CfSropqjDFFnw)
 
@@ -67,20 +67,9 @@
 
 [Ethical Hacking penetration testing & Nmap](https://mega.nz/folder/VZF0ALBb#QhKtLGItCwIzlthsP3pDjA)
 
-[Car Hacking Course in Hindi](chrome-extension://bigefpfhnfcobdlfbedofhhaibnlghod/mega/secure.html#folder/saYwCK7Y#DlTgR7T9jzKCcsliYw_YAA/folder/wO5HmT4R)
-
 [Android Mobile Hacking Workshop](https://docs.google.com/presentation/d/1gK2vYdvwFn8r8dSawIWRRIF4yDF4qmMY2qEelS1M7rI/edit#slide=id.p)
 
 [Android Mobile Hacking course](https://mega.nz/folder/HDQlkIaL#fX0vlAgvJEF6daDcI7xGaQ)
-
-[Exploit development for linux](chrome-extension://bigefpfhnfcobdlfbedofhhaibnlghod/mega/secure.html#/file/r8pBUJKR#D5DWLhqql2fMqdgzfaNM8eYTlCE7T1bc05qtrBFNj28)
-
-Cybersecurity courses by StationX
-[Volume 1](chrome-extension://bigefpfhnfcobdlfbedofhhaibnlghod/mega/secure.html#folder/Dv41kKDY#9Wdzbm74LzvTSfG8QEnOHg) |
-[Voiulme 2](chrome-extension://bigefpfhnfcobdlfbedofhhaibnlghod/mega/secure.html#folder/vzIRhaLR#rjOgdeOHjZtKQvWfshYq7Q) |
-[Vplume 3](chrome-extension://bigefpfhnfcobdlfbedofhhaibnlghod/mega/secure.html#folder/Hv4i1Ara#0TtNWmJkpw7cSX0RYICoMQ) |
-[Volume 4](chrome-extension://bigefpfhnfcobdlfbedofhhaibnlghod/mega/secure.html#folder/vjwilI6R#qct31tJHst_qqvXa7Z_tlA) |
-[Volume 1](https://mega.nz/folder/Dv41kKDY#9Wdzbm74LzvTSfG8QEnOHg/folder/OmIUlASZ)
 
 Pentester Academy All Courses |
 [link 1](https://mega.nz/folder/vaQHlIQb#i8B7gVZmR46O2FC67U15UA) |
