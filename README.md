@@ -17,4 +17,10 @@
 
 [Learn how a hacker hacks into the system and learn how to secure them from getting hacked.](https://mega.nz/file/5OAUzDrR#9KnYnNGMgiOQyV24hHtzcDREgkGW58YCHVRNyfl0kjs)
 
-[🔰Udemy – The Complete Ethical Hacking, PenTesting : System Security](https://drive.google.com/file/d/1eOf3D5VdT4HA6AvM6eKIUR-j6zvPTXRP/view?usp=sharing)
+[Blackhat Cracking Course by technical navigator](https://drive.google.com/drive/u/0/folders/17KyX_80h0yBUrc3X-PMa3EnXoE0kFmJJ?sort=13&direction=a)
+
+[OSCP (PWK) - Penetration Testing with Kali Linux - PEN 200, Version 2.0 by Offensive Security (2020) PDF](https://mega.nz/folder/82h2FTLA) | deccrypt key: XTKzO8gyZ6XCIy6ax0hx9A
+
+
+
+
