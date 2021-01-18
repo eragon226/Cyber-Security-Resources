@@ -35,7 +35,6 @@
 
 [CCNA & cyber security course](https://sites.google.com/view/ccna-cybersec/home)
 
-[SCOR](https://mega.nz/fm/pa4xjTSZ#F!UbwVHBQR!tAonNzVNbAbG3UW2XYPUJA)
 
 [Privilage escalation cheet sheet](https://0xsp.com/offensive/privilege-escalation-cheatsheet)
 
