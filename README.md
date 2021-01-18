@@ -9,5 +9,5 @@
 [Complete Ethical hacking bootcamp 2021 zero to mastery](https://mega.nz/folder/o5QAHJxY#F57YMHtR_1Lcgw9p6WcMKg)
 
 [Cyber security course 1](https://mega.nz/#F!zMN00AKJ!V9ZTkIgJiE03YJDDwHe9Jw) |
-[Cyber security course 2](https://mega.nz/folder/2x9Q2SQY#bAbl9-naw0rwCk67M1o4lg)
+[Cyber security course 2](https://mega.nz/folder/2x9Q2SQY#bAbl9-naw0rwCk67M1o4lg) |
 [Cyber security course 3](https://mega.nz/folder/r0ZDyQDB#zW1jF76lYqwtRhgulJ4DTw)
