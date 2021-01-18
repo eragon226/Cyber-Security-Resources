@@ -2,8 +2,6 @@
 
 [Open-Source Intelligence(OSINT) Fundamentals By Heath Adams](https://mega.nz/folder/AmQVzCZB#XdSJsQMO8CfSropqjDFFnw)
 
-[🔰DEDSEC All Courses and Tool Free Download!!🔰](https://mega.nz/folder/6WZ3kQRT#-_98YfFlIrVGkFbpKkQ34A)
-
 [Hack9 Courses](https://mega.nz/folder/i0cxGI4J#Q7NB2PgXC21KIU9xX-B3fw)
 
 [Complete Ethical hacking bootcamp 2021 zero to mastery](https://mega.nz/folder/o5QAHJxY#F57YMHtR_1Lcgw9p6WcMKg)
@@ -84,20 +82,46 @@ Cybersecurity courses by StationX
 [Volume 4](chrome-extension://bigefpfhnfcobdlfbedofhhaibnlghod/mega/secure.html#folder/vjwilI6R#qct31tJHst_qqvXa7Z_tlA) |
 [Volume 1](https://mega.nz/folder/Dv41kKDY#9Wdzbm74LzvTSfG8QEnOHg/folder/OmIUlASZ)
 
-Pentester Academy All Courses
-[link 1](https://mega.nz/folder/vaQHlIQb#i8B7gVZmR46O2FC67U15UA)
-[link 2](chrome-extension://bigefpfhnfcobdlfbedofhhaibnlghod/mega/secure.html#folder/Aj4i2YJZ#g48zd802EOG8UlY6APMwig)
-[link 3](chrome-extension://bigefpfhnfcobdlfbedofhhaibnlghod/mega/secure.html#folder/ywNSEIpL#9M3d6kGO7krpoLA20ak4Ow)
+Pentester Academy All Courses |
+[link 1](https://mega.nz/folder/vaQHlIQb#i8B7gVZmR46O2FC67U15UA) |
 [link 4](https://mega.nz/folder/ywNSEIpL#9M3d6kGO7krpoLA20ak4Ow)
 
-[Windows privilage esclation for beginners](chrome-extension://bigefpfhnfcobdlfbedofhhaibnlghod/mega/secure.html#folder/J4AVlQJA#WymF27zz0hQ_GBYWENYPVg)
-
-[Linux privilage esclation for begineers](chrome-extension://bigefpfhnfcobdlfbedofhhaibnlghod/mega/secure.html#folder/51ZXUaaR#AMb_YrVcXQ3Q8XU4qupfgA)
-
-Elearn Security Courses
-[link 1](chrome-extension://bigefpfhnfcobdlfbedofhhaibnlghod/mega/secure.html#folder/C55QjSxa#FmmJ_YK6XtvRargobLZhdw)
-[link 2](https://mega.nz/folder/C55QjSxa#FmmJ_YK6XtvRargobLZhdw)
+Elearn Security Courses|
+[link 2](https://mega.nz/folder/C55QjSxa#FmmJ_YK6XtvRargobLZhdw) 
 [link 3](https://drive.google.com/drive/folders/1Ccso3LtpXBqbhhscgRTbGgnWuNtIJ4-F)
+
+[Certified Security Analyst Training (CSAT)](https://mega.nz/folder/2x9Q2SQY#bAbl9-naw0rwCk67M1o4lg)
+
+[All Azure Certification Courses](https://mega.nz/folder/Dbxg2QAL#COfWYoWQqcCU6fOLT9QrNA)
+
+[Security Courses](https://drive.google.com/drive/u/0/folders/0ByzazsLLzvFwLVNfSW5BeS0yLTg)
+
+Advance Penetration Testing
+[Link 2](https://mega.nz/folder/3TRG2IiK#cYUfjdBRz4FlsfZFedx4NA)
+
+[🎭Jigsaw Ransomware](https://mega.nz/#!5qwAhLYS!klboQaTbVHa_bGRMEnBtekucfJoPJ9yKjrB941KqYuA)
+[🎭Atom/Shark Ransomware](https://mega.nz/#!g7wHSRyQ!XYa-5hD_9OOt1glubOhS_vjP8YQDylXnP9QTWtZzaA8)
+
+[All About DDoS Attacks: Become a DDoS Guru!](https://www.mediafire.com/file/d08stpfuih9kjcb)
+
+[Security career](https://drive.google.com/open?id=1JGQEXMAtRKW63grSl6PnKkoXG46jp_mC)
+
+[SIEM Solutions](https://drive.google.com/open?id=1oDDNcGK3-my_9lXNFm7JIbSO262hfKaQ)
+
+[Security Books](https://drive.google.com/drive/folders/1TYQx-qNuvyeyHHHYz2u5vn0P2s1SRoBw)
+
+[Python Books](https://drive.google.com/open?id=1uAfpfac3FsJevBg9CYV4Gi65MAYd9V4I)
+
+[PMP](https://drive.google.com/open?id=1_MQO335jA7D4mZ0aBOxfi-yPToKJ6Ost)
+
+[Programming Books](https://drive.google.com/open?id=19HFLJrwjLrzp1JXHfM4hq2VW3sjCy7Kh)
+
+Udemy paid courses
+[Link 1](https://mega.nz/folder/H4oUUS4S#stjk6vsvMrorO3oZOGQX3g)
+[link 2](https://mega.nz/folder/Sw8Qgarb#zqBiBYbth58oncNOHon8eg)
+
+[Crypto Currency Course](https://drive.google.com/drive/folders/1wkopIbIkwaAlGZ-aLABQddJ_nj1URQo2?usp=sharing)
+
 
 
 
