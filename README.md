@@ -14,9 +14,15 @@
 If you are looking any cyber security course for free then search in this website =>
 [Link](https://freeeducationweb.com/category/category/security/)
 
+[How to attack open server](https://mega.nz/file/Mc8xzCAS#3LN1qDJjYUloepTSmdDESaO6uqSsQpM92_tkwYoQfO4)
+
+[]()
 
 [CISA, CISSP training videos](https://mega.nz/folder/2x9Q2SQY#bAbl9-naw0rwCk67M1o4lg)
 
+[Offensive software exploition](https://mega.nz/folder/6yIGUS6S#emCYnM2TH2o_rUPf4FSVdQ)
+
+[Udemy hacking course](https://mega.nz/file/HkhQibBB#cJZ-AWEblc6gOTWCNORWzKL1ykvvnL9Y4yfa7Pp0j3Q)
 
 [Learn how a hacker hacks into the system and learn how to secure them from getting hacked.](https://mega.nz/file/5OAUzDrR#9KnYnNGMgiOQyV24hHtzcDREgkGW58YCHVRNyfl0kjs)
 
@@ -25,6 +31,8 @@ If you are looking any cyber security course for free then search in this websit
 [OSCP (PWK) - Penetration Testing with Kali Linux - PEN 200, Version 2.0 by Offensive Security (2020) PDF](https://mega.nz/folder/82h2FTLA) | deccrypt key: XTKzO8gyZ6XCIy6ax0hx9A
 
 [NPTEL Ethical hacking program](https://nptel.ac.in/courses/106/105/106105217/)
+
+[Binary Exploits with python](https://mega.nz/folder/tIRGzLga#b130H7PYTmTWjqG-VdHPGQ)
 
 [🔰INE - OSCP Security Technology Course🔰](https://drive.google.com/drive/folders/1rycUpceJbLvAGY8UmCO9CKD-WbWNtBF5)
 
@@ -76,13 +84,17 @@ If you are looking any cyber security course for free then search in this websit
 
 [Android Mobile Hacking course](https://mega.nz/folder/HDQlkIaL#fX0vlAgvJEF6daDcI7xGaQ)
 
+[OS prashant Android hacking course](https://drive.google.com/drive/mobile/folders/1_G6kt5leGkmzMs_hveS0oUya591gVso2)
+
 Pentester Academy All Courses |
 [link 1](https://mega.nz/folder/vaQHlIQb#i8B7gVZmR46O2FC67U15UA) |
-[link 4](https://mega.nz/folder/ywNSEIpL#9M3d6kGO7krpoLA20ak4Ow)
+[link 2](https://mega.nz/folder/ywNSEIpL#9M3d6kGO7krpoLA20ak4Ow) |
+[link 3](https://mega.nz/folder/vaQHlIQb#i8B7gVZmR46O2FC67U15UA)
 
 Elearn Security Courses|
-[link 2](https://mega.nz/folder/C55QjSxa#FmmJ_YK6XtvRargobLZhdw) 
-[link 3](https://drive.google.com/drive/folders/1Ccso3LtpXBqbhhscgRTbGgnWuNtIJ4-F)
+[link 1](https://mega.nz/folder/C55QjSxa#FmmJ_YK6XtvRargobLZhdw) |
+[link 2](https://drive.google.com/drive/folders/1Ccso3LtpXBqbhhscgRTbGgnWuNtIJ4-F) |
+[link 3](https://mega.nz/folder/cuYXhQxT#WABLdQtsLSf2O1WWEL8bjQ)
 
 [Certified Security Analyst Training (CSAT)](https://mega.nz/folder/2x9Q2SQY#bAbl9-naw0rwCk67M1o4lg)
 
