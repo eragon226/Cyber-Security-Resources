@@ -2,6 +2,8 @@
 
 [Open-Source Intelligence(OSINT) Fundamentals By Heath Adams](https://mega.nz/folder/AmQVzCZB#XdSJsQMO8CfSropqjDFFnw)
 
+[CHFI - Computer Hacking Forensic Investigator || 2021 Updated Course](https://mega.nz/folder/xABikJCb#RuUHZK1MSGJjmGkU_aUoag)
+
 [Hack9 Courses](https://mega.nz/folder/i0cxGI4J#Q7NB2PgXC21KIU9xX-B3fw)
 
 [Complete Ethical hacking bootcamp 2021 zero to mastery](https://mega.nz/folder/o5QAHJxY#F57YMHtR_1Lcgw9p6WcMKg)
