@@ -15,7 +15,7 @@
 [Cyber security course 3](https://mega.nz/folder/r0ZDyQDB#zW1jF76lYqwtRhgulJ4DTw)
 
 
-If you are looking any cyber security course for free then search in this website =>
+If you are looking for any cyber security course for free then search in this website =>
 [Link](https://freeeducationweb.com/category/category/security/)
 
 [How to attack open server](https://mega.nz/file/Mc8xzCAS#3LN1qDJjYUloepTSmdDESaO6uqSsQpM92_tkwYoQfO4)
