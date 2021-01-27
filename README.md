@@ -4,6 +4,8 @@
 
 [CHFI - Computer Hacking Forensic Investigator || 2021 Updated Course](https://mega.nz/folder/xABikJCb#RuUHZK1MSGJjmGkU_aUoag)
 
+[EC Council | Certified Security Analyst ](https://mega.nz/file/rs4FSK5J#vBmNQv6V6E-1CV9udU0uk8oMutoPSPKfD6a4Dccsya8)
+
 [Hack9 Courses](https://mega.nz/folder/i0cxGI4J#Q7NB2PgXC21KIU9xX-B3fw)
 
 [Complete Ethical hacking bootcamp 2021 zero to mastery](https://mega.nz/folder/o5QAHJxY#F57YMHtR_1Lcgw9p6WcMKg)
@@ -61,6 +63,8 @@ If you are looking any cyber security course for free then search in this websit
 [🔰Udemy – Mobile Application Hacking and Penetration Testing (Android)](https://drive.google.com/file/d/1UutyIoiEf7HhF-6uivDbVhTFJ4wDbOt1/view)
 
 [🎩 eLearnSecurity – Mobile Application Security and Penetration Testing (MASPT v2) 🎩](https://dropgalaxy.in/pe6kuece8oq9)
+
+[Attify's (Pentester Academy) Android Pentesting Course ](https://drive.google.com/drive/folders/1L8JSzGPkhUzmHb83EepKoGx_VpOChzZc)
 
 [Mobile Security: Reverse Engineer Android Apps From Scratch](https://www.mediafire.com/file/hetfem9w3t4frpo/Mobile_Security_-_Reverse_Engineer_Android_Apps_From_Scratch.rar/file)
 
