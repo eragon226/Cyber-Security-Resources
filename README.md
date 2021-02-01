@@ -20,8 +20,6 @@ If you are looking for any cyber security course for free then search in this we
 
 [How to attack open server](https://mega.nz/file/Mc8xzCAS#3LN1qDJjYUloepTSmdDESaO6uqSsQpM92_tkwYoQfO4)
 
-[]()
-
 [CISA, CISSP training videos](https://mega.nz/folder/2x9Q2SQY#bAbl9-naw0rwCk67M1o4lg)
 
 [Offensive software exploition](https://mega.nz/folder/6yIGUS6S#emCYnM2TH2o_rUPf4FSVdQ)
@@ -43,6 +41,8 @@ If you are looking for any cyber security course for free then search in this we
 [CEH v10 Module](https://mega.nz/folder/8plEBKhZ#plxVgHXBag83AWMAUApQ9Q)
 
 [CEH version 11](https://mega.nz/file/RcMl1S5C#O98nrMZN2oIXKYlVvTX2vzchf1hPAGUjVWio8mT_d8Y)
+
+[​​​CEH v11 EC - Council Certified Ethical Hacking All Module Pdfs By Shuklaji VSICS](https://www.mirrored.to/files/6XUZTHUI/Certified_Ethical_Hacker_CEH_v11_PDF.rar_links)
 
 [🔰CompTIA CySA+ (CS0-002) Complete Course & Practice Exam🔰](https://mega.nz/folder/kQtw1BDT#-byYv3N5nucitJAVeviBEQ)
 
@@ -90,6 +90,8 @@ If you are looking for any cyber security course for free then search in this we
 
 [Android Mobile Hacking course](https://mega.nz/folder/HDQlkIaL#fX0vlAgvJEF6daDcI7xGaQ)
 
+[Mobile Hacking course](https://mega.nz/folder/d0JnlSrL#Fc6alzcMoNBHwXJUf94yZg)
+
 [OS prashant Android hacking course](https://drive.google.com/drive/mobile/folders/1_G6kt5leGkmzMs_hveS0oUya591gVso2)
 
 Pentester Academy All Courses |
@@ -110,12 +112,16 @@ Elearn Security Courses|
 
 [Master in Hacking with XSS Cross Site Scriptin](https://drive.google.com/open?id=1Z8G4IAnB5dnEIYcNsnb_lqKsIz3ayvRk)
 
-
+[ Exploit Development for Linux (x86)](https://mega.nz/file/r8pBUJKR#D5DWLhqql2fMqdgzfaNM8eYTlCE7T1bc05qtrBFNj28)
 
 [Pearson IT CCNP Security Cisco Identify](https://drive.google.com/folderview?id=1KIrnqr5zmW4rOcn_HKRf7US_bWCz33o1)
 
 Advance Penetration Testing
 [Link 2](https://mega.nz/folder/3TRG2IiK#cYUfjdBRz4FlsfZFedx4NA)
+
+[Lynda Android Malware Analysis](https://mega.nz/folder/CoJhAQTQ#AmEegH_cQGefqrIBXoWU0w)
+
+[Software Ethical Hacking - How to Crack Software Legally](https://mega.nz/folder/XWRjVAAA#_kLgDVCfVTGAuFTDRsk1WQ) 
 
 [🔰Reverse Engineering Ransomware](https://rapidgator.net/file/ac65db2610916c…)
 
